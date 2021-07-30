@@ -32,10 +32,10 @@ switch (true)
     case age < 12:
         console.log(namen + " trinkt Saft!");
         break;
-    case age < 17:
+    case age < 18:
         console.log(namen + " trinkt Cola!");
         break;
-    case age > 17:
+    case age < 19:
         console.log(namen + " trinkt Wein!");
         break;
     default:
