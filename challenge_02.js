@@ -29,7 +29,7 @@ switch (true)
     case age < 6:
         console.log(namen + " trinkt Milch!");
         break;
-    case age < 12:
+    case age < 13:
         console.log(namen + " trinkt Saft!");
         break;
     case age < 18:
