@@ -39,5 +39,6 @@ switch (true)
         console.log(namen + " trinkt Wein!");
         break;
     default:
+        console.log("Falsche Angaben");
         break;
 }
